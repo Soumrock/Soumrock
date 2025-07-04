@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Soumya Bakshi</h1>
+<h3 align="center">Database Engineer | Python Developer | Tech Explorer</h3>
 
-<!--
-**Soumrock/Soumrock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Here are some ideas to get you started:
+- 🎓 B.Tech Student | 💻 Python & MySQL Enthusiast | 🎮 Gamer  
+- 💼 Currently working at **Raahi** in the **Database field**
+- 🌱 Learning: **Django**, **MySQL Server**
+- 🔭 **Project:**  
+  🏦 **Bank ATM Simulation using Python**  
+  A terminal-based ATM system with login, balance check, deposit, and withdrawal features.
+- 🔧 Exploring MySQL integration to simulate real-world database operations
+- 📫 Reach me at **soumya.bakshi.5660@gmail.com**
+- ⚡ Fun fact: I play **eFootball** and **chess**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![MySQL Server](https://img.shields.io/badge/-MySQL_Server-4479A1?style=flat&logo=mysql&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=soumyabakshi&show_icons=true&theme=tokyonight" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=soumyabakshi&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="www.linkedin.com/in/soumya-bakshi-8254ab289" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="mailto:soumya.bakshi.5660@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
+</p>
