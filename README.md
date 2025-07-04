@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🎓 B.Tech Student | 💻 Python & MySQL Enthusiast | 🎮 Gamer  
-- 💼 Currently working on **Raahi** in the **Database field**
+- 💼 Currently working on **Raahi** in **Database field**
 - 🌱 Learning: **Django**, **MySQL Server**
 - 🔭 **Project:**  
   🏦 **Bank ATM Simulation using Python**  
@@ -20,9 +20,11 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![MySQL Server](https://img.shields.io/badge/-MySQL_Server-4479A1?style=flat&logo=mysql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=scikit-learn&logoColor=orange)
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+
 
 ---
 
@@ -30,7 +32,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/soumya-bakshi-8254ab289" target="_blank">
+  <a href="https://www.linkedin.com/in/soumya-bakshi-8254ab289" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
   <a href="mailto:soumya.bakshi.5660@gmail.com" target="_blank">
