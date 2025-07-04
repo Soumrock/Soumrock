@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🎓 B.Tech Student | 💻 Python & MySQL Enthusiast | 🎮 Gamer  
-- 💼 Currently working at **Raahi** in the **Database field**
+- 💼 Currently working on **Raahi** in the **Database field**
 - 🌱 Learning: **Django**, **MySQL Server**
 - 🔭 **Project:**  
   🏦 **Bank ATM Simulation using Python**  
@@ -26,14 +26,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=soumyabakshi&show_icons=true&theme=tokyonight" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=soumyabakshi&theme=tokyonight" />
-</p>
-
----
 
 ### 🌐 Connect with Me
 
