@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumya Bakshi</h1>
-<h3 align="center">Database Engineer | Python Developer | Tech Explorer</h3>
+<h3 align="center">Aspiring Data Analyst | Python Developer | Tech Explorer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -21,8 +21,8 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![MySQL Server](https://img.shields.io/badge/-MySQL_Server-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=scikit-learn&logoColor=orange)
-![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi&logoColor=F2C811)
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws&logoColor=FF9900)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
