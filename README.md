@@ -5,7 +5,7 @@
 
 - 🎓 B.Tech Student | 💻 Python & MySQL Enthusiast | 🎮 Gamer  
 - 💼 Currently working on **Raahi** in **Database field**
-- 🌱 Learning: **Django**, **MySQL Server**
+- 🌱 Learning: **AWS**
 - 🔭 **Project:**  
   🏦 **Bank ATM Simulation using Python**  
   A terminal-based ATM system with login, balance check, deposit, and withdrawal features.
@@ -21,8 +21,8 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![MySQL Server](https://img.shields.io/badge/-MySQL_Server-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=scikit-learn&logoColor=orange)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi&logoColor=F2C811)
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonwebservices&logoColor=FF9900)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
