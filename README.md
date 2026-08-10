@@ -3,15 +3,14 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 B.Tech Student | 💻 Python & MySQL Enthusiast | 🎮 Gamer  
-- 💼 Currently working on **Raahi** in **Database field**
+- 🎓 B.Tech Student | 💻 Python & MySQL Enthusiast
+- 💼 Currently working on **Customer_Shopping_Behavior_Analysis_Project** in **Data Analysis field**
 - 🌱 Learning: **AWS**
 - 🔭 **Project:**  
   🏦 **Bank ATM Simulation using Python**  
   A terminal-based ATM system with login, balance check, deposit, and withdrawal features.
 - 🔧 Exploring MySQL integration to simulate real-world database operations
 - 📫 Reach me at **soumya.bakshi.5660@gmail.com**
-- ⚡ Fun fact: I play **eFootball** and **chess**
 
 ---
 
